@@ -50,3 +50,12 @@ div section#bannerT
 	height: 15%;
 	background-color: royalblue;
 }
+div section#aboutme
+{
+	position: absolute;
+	margin-left: 5%;
+	top:35%;
+	width: 90%;
+	height: 80%;
+	background-color: black;
+}
