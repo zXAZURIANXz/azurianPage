@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+  	padding: 0;
+  	border: 0;
+	z-index: 1;
+}
+html body 
+{
+	 width:  100%;
+  	height: 100%;
+  	margin: 0px;
+}
+div#mainHead
+{
+	position: fixed;
+	background-image: url("../img/4.jpg");
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100%;
+}
+
+div section#bannerG
+{
+	background-image: url("../img/bannery.png");
+	background-size: 100% 100%;
+}
+
+div#contenido
+{
+	position: absolute;
+	top: 75%;
+	width: 100%;
+	height: 500%;
+	background-color: red;
+}
+div section#bannerG
+{
+	position: absolute;
+	top:0%;
+	width: 100%;
+	height: 5%;
+	background-color: fuchsia;
+}
+div section#bannerG img
+{
+	position:absolute;
+	left:20%;
+	top: -15%;
+}
+
+
+
+div section#aboutme
+{
+	position: absolute;
+	margin-left: 5%;
+	top:7%;
+	width: 90%;
+	height: 50%;
+	background-color: black;
+}
+
+div section#bannerT
+{
+	position: absolute;
+	top:59%;
+	width: 100%;
+	height: 10%;
+	background-color: royalblue;
+}
