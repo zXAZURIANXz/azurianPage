@@ -1,12 +1,20 @@
+@font-face {
+       font-family: 'COPILME';
+       src:url('fonts/COPILME.ttf');
+
+}
+
 *{
 	margin: 0;
   	padding: 0;
   	border: 0;
 	z-index: 1;
 }
+
+
 html body 
 {
-	 width:  100%;
+	width:  100%;
   	height: 100%;
   	margin: 0px;
 }
@@ -18,11 +26,44 @@ div#mainHead
 	width: 100%;
 	height: 100%;
 }
-
+div#mainHead img
+{
+	position: absolute;
+	top: 20%;
+	margin-left: 35%;
+	width: 70%;
+	height: 55%;
+}
+div#mainHead h1
+{
+	font-family: COPILME;
+	font-size: 7em;
+	color: white;
+	font-weight: 400;
+}
+div#mainHead h3
+{
+	font-family: COPILME;
+	font-size: 4em;
+	color: white;
+	font-weight: 400;
+}
 div section#bannerG
 {
 	background-image: url("../img/bannery.png");
 	background-size: 100% 100%;
+	position: absolute;
+	top:0%;
+	width: 100%;
+	height: 5%;
+	background-color: fuchsia;
+}
+
+div section#bannerG img
+{
+	position:absolute;
+	left:22.5%;
+	top: -15%;
 }
 
 div#contenido
@@ -33,20 +74,7 @@ div#contenido
 	height: 500%;
 	background-color: red;
 }
-div section#bannerG
-{
-	position: absolute;
-	top:0%;
-	width: 100%;
-	height: 5%;
-	background-color: fuchsia;
-}
-div section#bannerG img
-{
-	position:absolute;
-	left:20%;
-	top: -15%;
-}
+
 
 
 
