@@ -3,3 +3,32 @@ escolaridad
 congresos y pryectos
 participaciones academica aldea digital etc
 algunas tecnologias eu manejo
+
+
+
+
+acerca de mi:
+
+Soy adrian Maturano vargas estudie,
+la preparatiria en el colegio nacional de educion
+profecional tecnica, y me titule con el grado de tecnico
+profecional en informatica con celuda profecional xxxxxx.
+
+actualmente continuo mi formacion academica estudiando ingenieria
+en tecnologias de la informacion y comunicion en el
+tecnologico nacional de mexico, tengo especialidad
+en desarollo web
+
+
+he participado en congresos institucionales como el codefest 2015
+y codefest 2016 en los cuales tube oportunidad de tomar
+talleres de angular js y base de datos respectivamente
+
+he tenido la oportunidad de poder participar en eventos de
+tecnologia como aldea digital y realizar proyectos de innovacion
+tecnologica dentro del TNM participando con una app llamda METRO PLUS DF
+cuento con una certificacion por open intelligence de jquery
+
+realice mi servicio social y practicas profecionales en academica
+de telmex, pudiendo contribuir a la programacion del portal de
+dicha area.

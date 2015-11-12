@@ -57,6 +57,7 @@ div section#bannerG
 	width: 100%;
 	height: 5%;
 	background-color: fuchsia;
+	
 }
 
 div section#bannerG img
@@ -72,11 +73,9 @@ div#contenido
 	top: 75%;
 	width: 100%;
 	height: 500%;
-	background-color: red;
+	background-image: url("../img/7.jpg");
+	background-size: 100% 100%;
 }
-
-
-
 
 div section#aboutme
 {
@@ -85,8 +84,33 @@ div section#aboutme
 	top:7%;
 	width: 90%;
 	height: 50%;
-	background-color: black;
+	background-color: white;
 }
+div section#aboutme div#parrafoUno 
+{
+	margin-left: 5%;
+	margin-top:10%;
+	position: absolute;
+	width: 55%;
+	height: 20%;
+	background-color: red;
+	text-align: left;
+	font-size: 1.5em;
+	
+	
+}
+div section#aboutme  img
+{
+	margin-top: 10%;
+	position: absolute;
+	width: 30%;
+	height: 20%;
+	margin-left: 65%;
+	
+	
+	
+}
+
 
 div section#bannerT
 {
